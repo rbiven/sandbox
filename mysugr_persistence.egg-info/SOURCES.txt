@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+mysugr_persistence/__init__.py
+mysugr_persistence/new_persistence.py
+mysugr_persistence.egg-info/PKG-INFO
+mysugr_persistence.egg-info/SOURCES.txt
+mysugr_persistence.egg-info/dependency_links.txt
+mysugr_persistence.egg-info/top_level.txt
+mysugr_persistence/persistence/__init__.py
+mysugr_persistence/persistence/connection.py
